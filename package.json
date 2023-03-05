@@ -10,6 +10,14 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.0.17"
+    "@popperjs/core": "^2.11.6",
+    "@types/bootstrap": "^5.2.6",
+    "astro": "^2.0.17",
+    "astro-bootstrap": "^0.5.13",
+    "bootstrap": "^5.2.3"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.4",
+    "prettier-plugin-astro": "^0.8.0"
   }
 }
